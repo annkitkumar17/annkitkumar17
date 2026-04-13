@@ -9,10 +9,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/himanshu-vishwakarma-2275a5354" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-   <a href="https://himanshuvkm.vercel.app" target="_blank">
+   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio website" />
   </a>
 </div>
@@ -24,12 +24,12 @@
 
 ###
 <p align="left">
-  I am Himanshu Vishwakarma, a software developer from India with a strong interest in building scalable, maintainable, and user-focused web applications.<br><br>
+  I am Ankit kumar, a software developer from India with a strong interest in building scalable, maintainable, and user-focused web applications.<br><br>
 
   • Actively developing skills in Full-Stack MERN and Next.js<br>
   • Exploring DevOps and Web3 technologies<br>
   • Open to collaboration on open-source and web-based projects<br>
-  • Contact: <b>himanshuvkm252@gmail.com</b>
+  • Contact: <b>ankitcodes17@gmail.com</b>
 </p>
 
 
