@@ -1,86 +1,18 @@
-<div align="center">
-  <img height="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
-</div>
-
-###
-
-<h1 align="center">Hi👋, I'm Ankit Kumar!</h1>
-
-###
-
-<div align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio website" />
-  </a>
-</div>
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>Hi, I'm **Ankit Kumar**, a passionate **Full-Stack Developer** from India pursuing a **B.Tech in Computer Science**. I enjoy building scalable, user-centric web applications and solving real-world problems through technology.<br><br>- 🚀 Focused on **MERN Stack**, **Next.js**, and modern web development<br>- 🤖 Exploring **AI-powered applications**, **DevOps**, and **Web3**<br>- 💡 Love turning innovative ideas into impactful products<br>- 🏆 Built award-winning projects like **QuickBite AI** and **RuralCare AI**<br>- 📚 Continuously improving my **DSA**, **System Design**, and backend development skills<br>- 🤝 Open to collaborations, open-source contributions, and exciting internship opportunities<br><br>> *"Building software that creates real impact, one project at a time."*
 
 
-###
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=annkitkumar17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=annkitkumar17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=annkitkumar17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 align="left"> About Me</h2>
-
-###
-<p align="left">
-  I am Ankit kumar, a software developer from India with a strong interest in building scalable, maintainable, and user-focused web applications.<br><br>
-
-  • Actively developing skills in Full-Stack MERN and Next.js<br>
-  • Exploring DevOps and Web3 technologies<br>
-  • Open to collaboration on open-source and web-based projects<br>
-  • Contact: <b>ankitcodes17@gmail.com</b>
-</p>
-
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
-
-
-</div>
-
-###
-<h2 align="center"> My Contributions </h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=annkitkumar17&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=annkitkumar17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=annkitkumar17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <h3>Thanks for stopping by! 😊</h3>
-</div>
-
-
-
-
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
